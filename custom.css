@@ -1,0 +1,31 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+.bg-primary { 
+	background-color: #f1e9f8 !important;
+}
+
+body {
+	font-family: "Source Serif 4", serif;
+} 
+
+h1, h2 {
+	  font-family: "Anton", serif;
+	  font-weight: 400;
+	  font-style: normal;
+	  color: #260d3e;
+} 
+
+#mainNav { 
+	background-color: #5b3083 !important;
+	 } 
+
+#headercopy{ 
+	color: #260d3e;
+	 } 
+
+#staff {
+	background-color: #f5f4cd;
+} 
+
+#learning{ 
+	background-color: #f5f4cd;
+ }
